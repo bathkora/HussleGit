@@ -4,4 +4,5 @@ function sum(a, b){
     //returning sum
     return(add);
 }
+//printing answer
 console.log(sum(4,5));
